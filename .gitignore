@@ -13,3 +13,12 @@ secrets.toml
 *attn_only_2L_half.pth
 serimats_app
 *othello_world*
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+.DS_Store
